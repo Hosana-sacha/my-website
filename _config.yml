@@ -24,7 +24,7 @@ description: >-
   Welcome to my personal website, where you can explore my projects, blog about my journey, and learn more about my passions in engineering, science, and technology! This is a place where I share my creative work, personal updates, and insights as I pursue my academic and professional goals.
   -Sacha Hosana
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://Hosana-sacha.github.io/my-website" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 
