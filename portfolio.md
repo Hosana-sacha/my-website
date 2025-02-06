@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
 
 # My Portfolio
 
-Here are some of my projects.
+## Upload a File  
+*(Just kidding, you can't. This is a static site! 😂)*  
 
-[Back to Home](/)
+But if you want to send me a file, just email me or use a carrier pigeon. 🐦✉️  
