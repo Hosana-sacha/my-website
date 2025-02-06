@@ -28,6 +28,9 @@ url: "https://Hosana-sacha.github.io/my-website" # the base hostname & protocol 
 twitter_username: jekyllrb
 github_username: jekyll
 
+header_pages:
+  - index.md
+
 # Build settings
 theme: minima
 plugins:
