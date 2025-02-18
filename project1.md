@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: project
 title: Project 1 - Exploring Aerospace Engineering
 permalink: {{site.baseurl}}/project1
 ---
