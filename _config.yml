@@ -25,8 +25,9 @@ description: >-
   -Sacha Hosana
 baseurl: "/my-website" # the subpath of your site, e.g. /blog
 url: "https://Hosana-sacha.github.io/my-website" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username: jekyll
+instagram_username: sacha_hosana
+linkedin_username: sacha-hosana-49524a2b8
 collections:
   projects:
     output: true
