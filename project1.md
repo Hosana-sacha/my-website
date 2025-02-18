@@ -1,7 +1,7 @@
 ---
-layout: project
+layout: page 
 title: Project 1 - Exploring Aerospace Engineering
-permalink: {{site.baseurl}}/project1.html
+permalink: {{site.baseurl}}/project1
 ---
 
 # Exploring Aerospace Engineering  
