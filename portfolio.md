@@ -11,4 +11,3 @@ permalink: /portfolio/
 
 But if you want to send me a file, just email me or use a carrier pigeon. 🐦✉️  
 
-[Back to Home]({{relative_url}})

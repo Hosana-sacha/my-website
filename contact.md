@@ -12,4 +12,3 @@ You can reach me on:
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"> **[LinkedIn](https://www.linkedin.com/in/sacha-hosana/)**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20"> **[GitHub](https://github.com/Hosana-sacha)**
 
-[Back to Home]({{relative_url}})
