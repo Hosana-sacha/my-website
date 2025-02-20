@@ -10,3 +10,5 @@ permalink: /projects/
 
 📌 *A project exploring the principles of aerospace engineering through simulations and experiments.*  
 🟢 **Status:** Ongoing  
+
+[Back to Home]({{relative_url}})
