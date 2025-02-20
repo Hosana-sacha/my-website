@@ -8,6 +8,6 @@ permalink: /blog/
 
 Welcome to my blog. Here, I share my thoughts, progress, and ideas.
 
-[Back to Home]({{site.baseurl}})
+[Back to Home]({{site.url}}{{site.baseurl}}/)
 
 
