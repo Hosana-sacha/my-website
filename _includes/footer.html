@@ -2,10 +2,12 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
+  {% unless page.url == "/" or page.url == "/index.html" %}
   <p>
     <a href="{{ '/' | relative_url }}" class="btnsec btn1">Back to Home <span>&#10230;</span></a>
   </p>
-
+  {% endunless %}
+  
   <div class="wrapper">
 
     <h2 class="footer-heading">{{site.title|escape}}</h2>
