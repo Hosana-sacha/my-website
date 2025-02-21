@@ -1,0 +1,34 @@
+
+
+/**
+ * Buttons (secondary or sec and principal or princ)
+ */
+
+ .btnsec{
+    width: 152px; /* Réduit la largeur du bouton */
+    height: 45px; /* Réduit la hauteur du bouton */
+    color: #fff !important;
+    background: #000;
+    font-size: 15px; /* Réduit la taille de la police */
+    text-decoration: none !important;
+    margin: 7px auto; /* Réduit l'espacement autour du bouton */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px; /*rondeure du bouton*/
+  }
+  
+  .btn1 span{
+    margin-left: 7px; /* Réduit l'espace entre le span (fleche) et le texte */
+    width: 0;
+    font-size: 18px; /*taille de la fleche ou plutot épaisseur même si ce n'est pas vrm*/
+    overflow: hidden;
+    transition: 0.3s;
+  }
+  
+  .btn1:hover span{
+    width: 30px; /* taille du span (fleche) qui va passer de 0px a cette valeur pour la rendre visible */
+    color: #fff !important;
+  }
+  
