@@ -32,3 +32,108 @@
     color: #fff !important;
   }
   
+/* Sticky Navbar for the home page */
+.site-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: black;
+    padding: 10px;
+    color: white !important; /* Add this to ensure the text is white */
+    text-align: center;
+    z-index: 1000;
+}
+
+.site-nav a {
+    color: white !important; /* Ensure links are white */
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.site-nav a:hover {
+    text-decoration: underline; /* Optional: adds an underline when hovering over links */
+}
+
+/* Section Styling */
+section {
+    padding: 100px 20px;
+    min-height: 100vh;
+}
+
+.scroll-section {
+    margin: 50px 0;
+    padding: 20px;
+    background: #f0f0f0;
+    border-radius: 8px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.scroll-section:hover {
+    transform: scale(1.05);
+}
+
+.scroll-section h2 {
+    font-size: 2em;
+    color: #333;
+}
+
+.scroll-section p {
+    font-size: 1.2em;
+    color: #555;
+}
+
+/* Card Styling */
+.card {
+    background: #f4f4f4;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.card h3 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.card p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+/* Make the entire card clickable */
+.card-link {
+    display: block;
+    text-decoration: none; /* Removes underline from link */
+    color: inherit; /* Inherits the color from the parent (e.g., the text color) */
+    padding: 20px;
+    border: 2px solid #ccc; /* Border around the card */
+    border-radius: 8px; /* Rounded corners for the card */
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.card-link:hover {
+    background-color: #f0f0f0; /* Hover background color */
+    transform: translateY(-5px); /* Slight lift effect on hover */
+}
+
+/* Button Styling */
+.btn {
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #444;
+}
+
+/* Smooth Scrolling */
+html {
+    scroll-behavior: smooth;
+}
