@@ -32,6 +32,11 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
+
+exclude:
+  - assets
+  - images
+  
 # Build settings
 theme: minima
 plugins:
