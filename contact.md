@@ -7,8 +7,8 @@ permalink: /contact/
 
 You can reach me on:  
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="20"> **[Email](mailto:hosanosacha@gmail.com)**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20"> **[Instagram](https://www.instagram.com/sacha_hosana/)**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"> **[LinkedIn](https://www.linkedin.com/in/sacha-hosana/)**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20"> **[GitHub](https://github.com/Hosana-sacha)**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="20"> **[Email](mailto:hosanosacha@gmail.com){:target="_blank"}**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20"> **[Instagram](https://www.instagram.com/sacha_hosana/){:target="_blank"}**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"> **[LinkedIn](https://www.linkedin.com/in/sacha-hosana/){:target="_blank"}**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20"> **[GitHub](https://github.com/Hosana-sacha){:target="_blank"}**
 

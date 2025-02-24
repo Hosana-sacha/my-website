@@ -1,0 +1,31 @@
+---
+layout: default
+title: Blog
+---
+
+<!-- Sidebar with Categories -->
+<aside class="sidebar">
+  <h3>Categories</h3>
+  <ul>
+    {% assign categories = site.categories %}
+    {% for category in categories %}
+      <li><a href="{{ '/category/' | append: category[0] | relative_url }}">{{ category[0] }}</a></li>
+    {% endfor %}
+  </ul>
+</aside>
+
+<!-- Main Blog Post Section -->
+<div class="blog-posts">
+  {% for post in site.posts %}
+    <article class="post-card">
+      {% if post.image %}
+        <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+      {% endif %}
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
+      <a href="{{ post.url | relative_url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
+
+

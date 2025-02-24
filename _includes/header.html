@@ -1,19 +1,33 @@
 <header class="site-header">
   <div class="site-links">
     <div class="left-links">
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/about-me/' | relative_url }}">About Me</a>
-      <a href="{{ '/blog/' | relative_url }}">Blog</a>
+      <div class="nav-link">
+        <a href="{{ '/' | relative_url }}">Home</a>
+      </div>
+      <div class="nav-link">
+        <a href="{{ '/About-Me/' | relative_url }}">About Me</a>
+      </div>
+      <div class="nav-link">
+        <a href="{{ '/blog/' | relative_url }}">Blog</a>
+      </div>
     </div>
 
     <div class="center-element">
-      <img src="{{ '/logos/complete-normal.svg' | relative_url }}" alt="My Logo" class="logo">
-    </div>
+      <a href="{{ '/' | relative_url }}">
+        <img src="{{ '/logos/complete-normal.svg' | relative_url }}" alt="My Logo" class="logo">
+      </a>
+    </div>    
 
     <div class="right-links">
-      <a href="{{ '/projects/' | relative_url }}">Projects</a>
-      <a href="{{ '/portfolio/' | relative_url }}">Portfolio</a>
-      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      <div class="nav-link">
+        <a href="{{ '/projects/' | relative_url }}">Projects</a>
+      </div>
+      <div class="nav-link">
+        <a href="{{ '/portfolio/' | relative_url }}">Portfolio</a>
+      </div>
+      <div class="nav-link">
+        <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      </div>
     </div>
   </div>
 </header>
