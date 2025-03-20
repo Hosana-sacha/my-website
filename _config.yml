@@ -4,7 +4,7 @@ email: shosana.20598@saintmicheldepicpus.fr
 description: >-
   Bienvenue sur ce magnifique site web qui allie humour, cohésion de groupe et recherche scientifique pour expliquer le phénomène de la photosynthèse.  Ce projet a été réalisé dans le cadre d'une activité d'ES scientifique. Lycée: Saint-Michel de Picpus  Cours: ES SVT  Professeure: Mme Buttay  
 baseurl: "/la-photosynthese" # the subpath of your site, e.g. /blog
-url: "https://Hosana-sacha.github.io/my-website" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://Hosana-sacha.github.io/laphotosyntheseSVT" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Hosana-sacha
 instagram_username: sacha_hosana
 linkedin_username: sacha-hosana
